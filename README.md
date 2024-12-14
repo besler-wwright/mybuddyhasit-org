@@ -1,6 +1,6 @@
 # mybuddyhasit-org
 
-# First Step: create a .env filen with at least
+# First Step: create a .env file with at least:
 
 PERSONALIZATION_FILE=./personalization.json
 SCRATCH_PAD_DIR=./scratchpad
